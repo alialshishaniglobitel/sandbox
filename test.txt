@@ -6,3 +6,6 @@ aaaaa
 this is public update
 p
 aaaaa
+int x ( )
+{
+}
